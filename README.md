@@ -6,10 +6,14 @@ Diferenciando-se dos leitores tradicionais, o Leitor de Mangá Zip permite aos u
 
 Ao baixar o Leitor de Mangá Zip, os usuários obtêm uma experiência de leitura offline completa, enquanto permanecem conectados à internet para acessar recursos como comentários e interações online.
 
-### Principais Características:
+## Principais Características:
 
 - Acesso Instantâneo: Abra e inicie a leitura do mangá ao descompactar o arquivo zip e clicar em "inicia.html".
 - Leitura Offline: Desfrute do conteúdo sem a necessidade de conexão contínua à internet.
 - Conexão para Comentários: Permite interações online para enriquecer a experiência de leitura.
 
 Esta solução visa oferecer acesso simplificado e prático aos mangás, fornecendo uma alternativa eficiente para a comunidade de scans e usuários que buscam uma experiência de leitura acessível e conveniente.
+
+### Versão v1.5.7
+
+#### Características Principais
